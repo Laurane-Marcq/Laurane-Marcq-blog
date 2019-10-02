@@ -1,8 +1,17 @@
 ---
-title: "About me"
+title: "Laurane's blog"
 ---
 
+Name : Marcq Laurane
 
-This section also must include: 
+Teacher : Nicolas Devilez
 
-- first name/surname, teacher’s name, class name and academic year
+Group : Group 6
+
+Class : BAC2 biology
+
+Academic year : 2019-2020
+
+Topic : 
+
+
