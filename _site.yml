@@ -14,7 +14,7 @@ navbar:
 base_url:  https://Laurane-Marcq.github.io/Laurane-Marcq-blog/
 collections:
     posts:
-      disqus : laurane-marcq-blog 
+      disqus: laurane-marcq-blog 
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
 
