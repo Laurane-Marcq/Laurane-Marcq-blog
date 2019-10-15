@@ -1,5 +1,5 @@
 ---
-title: "Green turtle: The success of the reintroduction program in Cayman Islands"
+title: "Greens call for wolves to be reintroduced to Ireland"
 description: |
   A short description of the post.
 author:
@@ -17,11 +17,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Title of the article  
 
-Green turtle: The success of the reintroduction program in Cayman Islands
+Greens call for wolves to be reintroduced to Ireland
 
 ## Name of the magazine and source 
 
-ScienceDaily, [link](https://www.sciencedaily.com/releases/2019/01/190118123027.htm)
+The Irish Post, <https://www.irishtimes.com/news/politics/greens-call-for-wolves-to-be-reintroduced-to-ireland-1.4036692>
 
 ## Vocabulary 
 
