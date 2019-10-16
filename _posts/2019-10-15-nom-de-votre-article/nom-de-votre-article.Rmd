@@ -34,6 +34,11 @@ The Irish Times, <https://www.irishtimes.com/news/politics/greens-call-for-wolve
 | To promote          | To boost |
 | A deer              | Hoofed ruminant mammal |
 | Herds               | A large number of animals |
+| To undermine        | To waste |
+| Plots               | Fields | 
+| A canopy            | The branches and leaves that spread out at the top of a group of trees forming a type of roof |
+| Commisionning       | The action of to control
+| A flood             | To cause to fill or become covered with water |
 ## Analysis table 
 
 |                              |                                                                     |
