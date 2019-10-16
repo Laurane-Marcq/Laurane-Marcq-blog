@@ -30,7 +30,10 @@ The Irish Times, <https://www.irishtimes.com/news/politics/greens-call-for-wolve
 | Woodlands           | Forest            |
 | Coniferous          | Type of tree   |
 | Deciduous           | Other type of tree |
-
+| To stop             | To see |
+| To promote          | To boost |
+| A deer              | Hoofed ruminant mammal |
+| Herds               | A large number of animals |
 ## Analysis table 
 
 |                              |                                                                     |
