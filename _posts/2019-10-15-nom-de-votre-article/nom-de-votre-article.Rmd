@@ -28,7 +28,8 @@ The Irish Times, <https://www.irishtimes.com/news/politics/greens-call-for-wolve
 | Words from the text | Synonym/explanation in English |
 | ------------------- | ------------------------------ |
 | Woodlands           | Forest            |
-|                     |       |
+| Coniferous          | Type of tree   |
+| Deciduous           | Other type of tree |
 
 ## Analysis table 
 
