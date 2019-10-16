@@ -43,11 +43,11 @@ The Irish Times, <https://www.irishtimes.com/news/politics/greens-call-for-wolve
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | (insert names and, if possible, professions)                        |
-| Published in?                | (insert date)                                                       |
+| Researchers                  | Harry McGee. He is a political correspondent with the Irish Times.                        |
+| Published in?                | Wed, Oct 16, 2019                                                       |
 | General topic?               |  (summarize the topic in one or two sentences)                      |
 | Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
-| Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
-| Remaining questions?         | (check if there are still interrogations at the end of the article) |
+| Conclusions/discovery?       | The topic is a source of conflicts between Green Party leader Eamon Ryan and the Minister for Arts. So, no decision has been taken.    |
+| Remaining questions?         | We don't know if wolves will be reintroduce in Ireland after 250 years without presence in this country. |
 
 
