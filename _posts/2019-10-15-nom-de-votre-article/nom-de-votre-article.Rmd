@@ -15,6 +15,8 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+# Article analysis 1
+
 ## Title of the article  
 
 Greens call for wolves to be reintroduced to Ireland
@@ -22,6 +24,36 @@ Greens call for wolves to be reintroduced to Ireland
 ## Name of the magazine and source 
 
 The Irish Times, <https://www.irishtimes.com/news/politics/greens-call-for-wolves-to-be-reintroduced-to-ireland-1.4036692>
+
+## The article 
+
+Green Party leader Eamon Ryan has called for wolves to be reintroduced in Ireland almost 250 years after the species became extinct in Ireland. 
+
+Mr Ryan said he believed that wolves should have a place in Ireland’s environment and would contribute positively to the ecosystem and the State’s national habitat. 
+
+The suggestion forms part of a Dáil private members motion tabled by his party on forestry policy, which calls for a move away from short-rotation **coniferous** plantation to more diverse **woodlands**, which would include **deciduous** tree and other flora and fauna. 
+
+The last wild wolf in Ireland is reputed to have been killed in 1786, a century after the last wolf was **spotted** in England. There have been calls for wolves to be introduced in Scotland to help to **promote** ecological balance and biodiversity. There have been a number of successful “rewilding” programmes in the US where wolves were reintroduced in national parks. 
+
+Wolves were reintroduced in Yellowstone Park in 1995 and have helped to limit the population of **deer** and other ruminants who thin the forests. There have also been calls for them to be reintroduced in the Scottish Highlands, as a natural predator which could help thin large deer **herds**. 
+
+The motion tabled by Mr Ryan and Catherine Martin has referred to the success of rewilding initiatives in other countries.
+
+It has pointed to wilderness area in the Nephin range, as well as Coillte’s recent recognition of the amenity value of forestry in the Dublin and Wicklow mountains as providing potential for such a project. 
+
+Asked did he support the reintroduction of wolves, Mr Ryan said: “I think yes. Bring back a sense of wildness. Bring back a balance of ecology in the the sense that those wolves would prey on deer that are holding back forestry at the present time. 
+
+“Look at other countries that have ecosystems and are more resilient and more attractive,” He said. 
+
+Minister for Arts, Heritage and the Gaeltacht, Josepha Madigan responded on Twitter by saying her Department has no plans to reintroduce wolves in Ireland.
+“The reintroduction of a large predator which has been absent for 250 years might **undermine** existing conservation programmes and would do considerable damage to farming,” she said. 
+
+The Greens’ Dáil motion also calls for a new land use plan. 
+
+“Central to our motion is the setting of a new national land use plan which **plots** out how we can manage all our land in this better way. Some areas are going to be rewilded, other areas will see the self-seeding of native woodlands, and in other areas we will be managing the forests in a way that allows light in and a mixed **canopy** develop which produces high-quality wood products and beautiful forests to walk within.
+
+“We would start the ball rolling by **commissioning** every single farm across the country to plant a special hectare of **native** woodland which helps us meet our immediate climate targets and helps create wildlife corridors that also help improve water quality and our **flood** management systems,” he said. 
+
 
 ## Vocabulary 
 
@@ -37,15 +69,16 @@ The Irish Times, <https://www.irishtimes.com/news/politics/greens-call-for-wolve
 | To undermine        | To waste |
 | Plots               | Fields | 
 | A canopy            | The branches and leaves that spread out at the top of a group of trees forming a type of roof |
-| Commisionning       | The action of to control
+| Commisionning       | The action of to control |
+| A native woodland   | A wild woodland |
 | A flood             | To cause to fill or become covered with water |
 ## Analysis table 
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | Harry McGee. He is a political correspondent with the Irish Times.                        |
+| Researchers                  | Eamon Ryan is a Irish Green Party politician who has served as Leader of the Green Party since May 2011. Josepha Margilan is an Irish Fine Gael politician, solicitor, mediator and author who has served as Minister for Culture, Heritage and the Gaeltacht since November 2017.              |
 | Published in?                | Wed, Oct 16, 2019                                                       |
-| General topic?               |  (summarize the topic in one or two sentences)                      |
+| General topic?               | The article talk about the re-introduction of wolves in Ireland. Some people agree with the idea and some people don't.
 | Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
 | Conclusions/discovery?       | The topic is a source of conflicts between Green Party leader Eamon Ryan and the Minister for Arts. So, no decision has been taken.    |
 | Remaining questions?         | We don't know if wolves will be reintroduce in Ireland after 250 years without presence in this country. |
