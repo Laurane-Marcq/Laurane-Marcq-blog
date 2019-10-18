@@ -1,11 +1,11 @@
 ---
 title: "Greens call for wolves to be reintroduced to Ireland"
 description: |
-  A short description of the post.
+  The article talk about the advantages and the defects of the reintroduction of wolves in a territory where it had disappeared for 250 years.
 author:
   - name: Laurane Marcq
     url: {}
-date: 10-15-2019
+date: 10-21-2019
 output:
   distill::distill_article:
     self_contained: false
@@ -78,8 +78,8 @@ The Greens’ Dáil motion also calls for a new land use plan.
 | ---------------------------- | ------------------------------------------------------------------- |
 | Researchers                  | Eamon Ryan is a Irish Green Party politician who has served as Leader of the Green Party since May 2011. Josepha Margilan is an Irish Fine Gael politician, solicitor, mediator and author who has served as Minister for Culture, Heritage and the Gaeltacht since November 2017.              |
 | Published in?                | Wed, Oct 16, 2019                                                       |
-| General topic?               | The article talk about the re-introduction of wolves in Ireland. Some people agree with the idea and some people don't.
-| Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
+| General topic?               | The article talk about the re-introduction of wolves in Ireland. Some people agree with the idea and some people don't.|
+| Procedure/what was examined? | E. Ryan is the leader of the political party "Green". He want the re-introduction of wolves in Ireland. It had disappeared of Ireland for 250 years. He thinks that it could have a good impact on the ecosystem. This idea is one part of others like diversifying forests. He refers at other re-introductions in others countrys. At Yellowstone in 1995, the re-introduction of wolves has allowed to limit the deer population. It allows ecological balance and biodiversity. Minister for Arts is not agree with this. She thinks that the re-introductions of a predator who had disappeared since 250 years could undermine the various conservation programms and have damage to farming.Finally, the party "Greens" want to propose to every farmes to plant one hectare of wild forests. It could create wildlife corridos and improve the water quality and flood management. |
 | Conclusions/discovery?       | The topic is a source of conflicts between Green Party leader Eamon Ryan and the Minister for Arts. So, no decision has been taken.    |
 | Remaining questions?         | We don't know if wolves will be reintroduce in Ireland after 250 years without presence in this country. |
 
