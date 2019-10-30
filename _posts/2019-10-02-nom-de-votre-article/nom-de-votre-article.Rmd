@@ -1,11 +1,11 @@
 ---
-title: "nom-de-votre-article"
+title: "SNH to plant 20,000 trees at first National Nature Reserve"
 description: |
-  A short description of the post.
+  The article talk about the plantation of 20,000 trees in a natural reserve in UK.
 author:
-  - name: Nicolas Devilez
+  - name: Marcq Laurane
     url: {}
-date: 10-02-2019
+date: 11-04-2019
 output:
   distill::distill_article:
     self_contained: false
@@ -15,7 +15,38 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
+# Article analysis 2 
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+## Title of the article 
+
+SNH to plant 20,000 trees at first National Nature Reserve
+
+## Name of the magazine and source
+
+The national, https://www.thenational.scot/news/17948655.snh-plant-20-000-trees-first-national-nature-reserve/
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| To feature    | To have                   |
+| Remnants      | Rests
+| The aim       | The goal |
+| Further       | More |
+| To enhance    | To boost |
+| Broadleaf     | Large leaves of trees |
+| Towards       | In relation to |
+| 
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | (insert names and, if possible, professions)                        |
+| Published in?                | 10-05-2019                                                       |
+| General topic?               |  (summarize the topic in one or two sentences)                      |
+| Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
+| Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
+| Remaining questions?         | (check if there are still interrogations at the end of the article) |
+
 
