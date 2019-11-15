@@ -6,6 +6,7 @@ author:
   - name: Marcq Laurane
     url: {}
 date: 11-04-2019
+preview: forets.jpg
 output:
   distill::distill_article:
     self_contained: false

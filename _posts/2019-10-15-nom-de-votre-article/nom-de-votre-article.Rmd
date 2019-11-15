@@ -6,6 +6,7 @@ author:
   - name: Laurane Marcq
     url: {}
 date: 10-21-2019
+preview: loup.jpg
 output:
   distill::distill_article:
     self_contained: false
