@@ -1,0 +1,47 @@
+---
+title: "Reintroduction centre plan for endangered Scottish wildcats"
+description: |
+  A short description of the post.
+author:
+  - name: Marcq Laurane
+    url: {}
+date: 11-28-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Article analysis 4
+
+## Title of the article 
+
+Reintroduction centre plan for endangered Scottish wildcats
+
+## Name of the magazine and source 
+
+The Herald, https://www.heraldscotland.com/news/18045704.reintroduction-centre-plan-endangered-scottish-wildcats/
+
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| E.g. To cope with   | To deal with                   |
+|                     | Not too distant future         |
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | (insert names and, if possible, professions)                        |
+| Published in?                | Nov 19, 2019                                                       |
+| General topic?               |  (summarize the topic in one or two sentences)                      |
+| Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
+| Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
+| Remaining questions?         | (check if there are still interrogations at the end of the article) |
+
+
