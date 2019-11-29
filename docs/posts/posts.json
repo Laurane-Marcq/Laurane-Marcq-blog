@@ -2,7 +2,7 @@
   {
     "path": "posts/2019-11-28-nom-de-votre-article/",
     "title": "Reintroduction centre plan for endangered Scottish wildcats",
-    "description": "A short description of the post.",
+    "description": "This article will talk about the wildcat and their reintroduction in Scottland.",
     "author": [
       {
         "name": "Marcq Laurane",
@@ -11,8 +11,8 @@
     ],
     "date": "2019-11-28",
     "categories": [],
-    "preview": {},
-    "last_modified": "2019-11-28T14:11:37+01:00"
+    "preview": "posts/2019-11-28-nom-de-votre-article/cat.jpg",
+    "last_modified": "2019-11-29T18:45:11+01:00"
   },
   {
     "path": "posts/2019-11-15-nom-de-votre-article/",

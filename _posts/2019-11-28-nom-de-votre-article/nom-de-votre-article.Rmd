@@ -1,11 +1,12 @@
 ---
 title: "Reintroduction centre plan for endangered Scottish wildcats"
 description: |
-  A short description of the post.
+  This article will talk about the wildcat and their reintroduction in Scottland.
 author:
   - name: Marcq Laurane
     url: {}
 date: 11-28-2019
+preview: cat.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -28,20 +29,27 @@ The Herald, https://www.heraldscotland.com/news/18045704.reintroduction-centre-p
 
 ## Vocabulary 
 
-| Words from the text | Synonym/explanation in English |
+|                     |                                |
 | ------------------- | ------------------------------ |
-| E.g. To cope with   | To deal with                   |
-|                     | Not too distant future         |
-
+| A lifeline   |  Something regarded as indispensable for the maintaining or protection of life                  |
+| High                    | Elevated         |
+| Feral       | Undomesticated   |
+| Threat   | Menace  |
+| Breeding   | The sexual propagation of plants or animals  |
+| The brink  | The border  |
+| Tremendously  | Gigantic  |
+| Sustainable  | Continue  |
+| Ownership  | Proprietary  |
+| Neutering  | To castrate   |
 ## Analysis table 
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | (insert names and, if possible, professions)                        |
-| Published in?                | Nov 19, 2019                                                       |
-| General topic?               |  (summarize the topic in one or two sentences)                      |
+| Researchers                  | Roseanna Cunningham is a Scottish politician who is the Cabinet Secretary for Environment, Climate Change and Land Reform. Helen manages the RZSS Conservation department. Martin Gaywood is the SNH Species Projects Managers.                       |
+| Published in?                | Nov 19, 2019  |
+| General topic?               | The article talk about the reintroduction of a species on the brink of exctinction : the wildcat.                      |
 | Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
-| Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
-| Remaining questions?         | (check if there are still interrogations at the end of the article) |
+| Conclusions/discovery?       |  Finally, the reintroduction of the wildcats is a challenge. It' important to be fast to save the species      |
+| Remaining questions?         | / |
 
-
+![](Cat1-300x203-300x203.jpg)
