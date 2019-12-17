@@ -1,7 +1,10 @@
 name: "blog-template"
 title: "Laurane's Blog"
 output_dir: "docs"
+favicon: "images/planete.jpg"
 navbar:
+  logo:
+   image: "images/ours.jpg"
   right:
     - text: "Home"
       href: index.html
