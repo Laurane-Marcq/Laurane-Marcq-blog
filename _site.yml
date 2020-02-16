@@ -4,7 +4,7 @@ output_dir: "docs"
 favicon: "images/planete.jpg"
 navbar:
   logo:
-   image: "images/ours.jpg"
+   image: "images/ours2.jpg"
   right:
     - text: "Home"
       href: index.html
