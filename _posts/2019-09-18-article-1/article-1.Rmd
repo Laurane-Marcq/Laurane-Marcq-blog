@@ -1,8 +1,8 @@
 ---
-title: "Article 1 :"
+title: "India's top court has said cheetahs can be reintroduced in the country, 70 years after they were wiped out."
 author:
   - name: Laurane Marcq
-date: 09-18-2019
+date: 26-02-2020
 categories:
 preview: 
 output:
@@ -28,12 +28,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | (insert names and, if possible, professions)                        |
-| Published in?                | (insert date)                                                       |
-| General topic?               |  (summarize the topic in one or two sentences)                      |
+| Researchers                  |                      |
+| Published in?                |                                                       |
+| General topic?               |   |
 | Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
 | Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
-| Remaining questions?         | (check if there are still interrogations at the end of the article) |
+| Remaining questions?         |    |
 
 
 <https://www.scientificamerican.com/article/wheres-my-elephant-high-tech-collars-track-wildlife-in-real-time1/?redirect=1>
