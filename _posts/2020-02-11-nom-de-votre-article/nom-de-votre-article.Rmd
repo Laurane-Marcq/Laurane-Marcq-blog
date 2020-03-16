@@ -1,7 +1,7 @@
 ---
-title: "5 years after turning disused military bases into nature reserves, wolves return and use  bases as havens"
+title: "Article 6 : 5 years after turning disused military bases into nature reserves, wolves return and use  bases as havens"
 description: |
-  This article talks about the transformation of military bases into natural reserves.
+  This article is about the transformation of military bases into natural reserves.
 author:
   - name: Marcq Laurane
     url: {}

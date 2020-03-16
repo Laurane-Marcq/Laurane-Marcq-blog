@@ -1,7 +1,7 @@
 ---
-title: "India's top court has said cheetahs can be reintroduced in the country, 70 years after they were wiped out."
+title: "Article 7 : India's top court has said cheetahs can be reintroduced in the country, 70 years after they were wiped out."
 description: |
-  The article talk about the reintroduction of the cheetahs and the and the potential consequences. 
+  The article is about the reintroduction of the cheetahs and the and the potential consequences. 
 author:
   - name: Marcq Laurane
     url: {}

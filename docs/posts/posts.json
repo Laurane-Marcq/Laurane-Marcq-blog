@@ -1,8 +1,8 @@
 [
   {
     "path": "posts/2020-02-27-nom-de-votre-article/",
-    "title": "India's top court has said cheetahs can be reintroduced in the country, 70 years after they were wiped out.",
-    "description": "The article talk about the reintroduction of the cheetahs and the and the potential consequences.",
+    "title": "Article 7 : India's top court has said cheetahs can be reintroduced in the country, 70 years after they were wiped out.",
+    "description": "The article is about the reintroduction of the cheetahs and the and the potential consequences.",
     "author": [
       {
         "name": "Marcq Laurane",
@@ -12,12 +12,12 @@
     "date": "2020-02-27",
     "categories": [],
     "preview": "posts/2020-02-27-nom-de-votre-article/guepard.jpg",
-    "last_modified": "2020-02-28T18:03:47+01:00"
+    "last_modified": "2020-03-16T13:38:02+01:00"
   },
   {
     "path": "posts/2020-02-11-nom-de-votre-article/",
-    "title": "5 years after turning disused military bases into nature reserves, wolves return and use  bases as havens",
-    "description": "This article talks about the transformation of military bases into natural reserves.",
+    "title": "Article 6 : 5 years after turning disused military bases into nature reserves, wolves return and use  bases as havens",
+    "description": "This article is about the transformation of military bases into natural reserves.",
     "author": [
       {
         "name": "Marcq Laurane",
@@ -27,11 +27,11 @@
     "date": "2020-02-11",
     "categories": [],
     "preview": "posts/2020-02-11-nom-de-votre-article/download.jpeg",
-    "last_modified": "2020-02-16T14:18:21+01:00"
+    "last_modified": "2020-03-16T13:41:45+01:00"
   },
   {
     "path": "posts/2019-12-03-nom-de-votre-article/",
-    "title": "Tanzanian president disapproves annulment of more protected areas",
+    "title": "Article 5 : Tanzanian president disapproves annulment of more protected areas",
     "description": "The President of Tanzania made a decision for the protection of natural resveres and the tourism.",
     "author": [
       {
@@ -42,12 +42,12 @@
     "date": "2019-12-03",
     "categories": [],
     "preview": "posts/2019-12-03-nom-de-votre-article/president.jpg",
-    "last_modified": "2019-12-15T15:09:41+01:00"
+    "last_modified": "2020-03-16T13:41:01+01:00"
   },
   {
     "path": "posts/2019-11-28-nom-de-votre-article/",
-    "title": "Reintroduction centre plan for endangered Scottish wildcats",
-    "description": "This article will talk about the wildcat and their reintroduction in Scottland.",
+    "title": "Article 4 : Reintroduction centre plan for endangered Scottish wildcats",
+    "description": "This article will be about the wildcat and their reintroduction in Scottland.",
     "author": [
       {
         "name": "Marcq Laurane",
@@ -57,12 +57,12 @@
     "date": "2019-11-28",
     "categories": [],
     "preview": "posts/2019-11-28-nom-de-votre-article/cat.jpg",
-    "last_modified": "2019-12-01T11:32:56+01:00"
+    "last_modified": "2020-03-16T13:40:00+01:00"
   },
   {
     "path": "posts/2019-11-15-nom-de-votre-article/",
-    "title": "UWA re-introduces giraffes to Pian Upe Wildlife reserve",
-    "description": "The article talk about the re-introductio of an endangered speices in a natural reserve : the giraffe",
+    "title": "Article 3 : UWA re-introduces giraffes to Pian Upe Wildlife reserve",
+    "description": "The article is about the re-introductio of an endangered speices in a natural reserve : the giraffe",
     "author": [
       {
         "name": "Marcq Laurane",
@@ -72,7 +72,7 @@
     "date": "2019-11-15",
     "categories": [],
     "preview": "posts/2019-11-15-nom-de-votre-article/giraffe.jpg",
-    "last_modified": "2019-11-16T19:17:18+01:00"
+    "last_modified": "2020-03-16T13:39:05+01:00"
   },
   {
     "path": "posts/My enlish activity log/",
@@ -91,8 +91,8 @@
   },
   {
     "path": "posts/Article 2/",
-    "title": "SNH to plant 20,000 trees at first National Nature Reserve",
-    "description": "The article talk about the plantation of 20,000 trees in a natural reserve in UK.",
+    "title": "Article 2 : SNH to plant 20,000 trees at first National Nature Reserve",
+    "description": "The article is about the plantation of 20,000 trees in a natural reserve in UK.",
     "author": [
       {
         "name": "Marcq Laurane",
@@ -102,12 +102,12 @@
     "date": "2019-11-04",
     "categories": [],
     "preview": "posts/Article 2/forets.jpg",
-    "last_modified": "2019-11-15T11:31:19+01:00"
+    "last_modified": "2020-03-16T13:45:05+01:00"
   },
   {
     "path": "posts/Article 1/",
-    "title": "Greens call for wolves to be reintroduced to Ireland",
-    "description": "The article talk about the advantages and the defects of the reintroduction of wolves in a territory where it had disappeared for 250 years.",
+    "title": "Article 1 : Greens call for wolves to be reintroduced to Ireland",
+    "description": "The article is about the advantages and the defects of the reintroduction of wolves in a territory where it had disappeared for 250 years.",
     "author": [
       {
         "name": "Laurane Marcq",
@@ -116,22 +116,7 @@
     ],
     "date": "2019-10-21",
     "categories": [],
-    "preview": "posts/Article 1/loup.jpg",
-    "last_modified": "2019-11-15T11:27:16+01:00"
-  },
-  {
-    "path": "posts/2019-09-18-article-1/",
-    "title": "Article 1 :",
-    "description": {},
-    "author": [
-      {
-        "name": "Laurane Marcq",
-        "url": {}
-      }
-    ],
-    "date": "2019-09-18",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2019-10-15T13:27:54+02:00"
+    "preview": "posts/Article 1/Loup.jpg",
+    "last_modified": "2020-03-16T13:46:37+01:00"
   }
 ]
