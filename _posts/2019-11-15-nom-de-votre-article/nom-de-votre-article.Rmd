@@ -1,7 +1,7 @@
 ---
 title: "Article 3 : UWA re-introduces giraffes to Pian Upe Wildlife reserve"
 description: |
-  The article is about the re-introductio of an endangered speices in a natural reserve : the giraffe.
+  The article is about the re-introduction of an endangered speices in a natural reserve : the giraffe.
 author:
   - name: Marcq Laurane
     url: {}
@@ -34,6 +34,8 @@ The independent, https://www.independent.co.ug/uwa-re-introduces-giraffes-to-pia
 | Crafts  | Artistry     |
 | On behalft of | In the nalme of |
 | A bid | An offer |
+| To enable   | To permit  |
+| Dwindling        | Decreasing   |
 | A hartebeet | Either of two large African antelopes |
 | Neighbouring | Connecting |
 

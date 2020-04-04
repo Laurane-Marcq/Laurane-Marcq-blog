@@ -1,0 +1,27 @@
+---
+title: "Introduction"
+description: |
+  This post is the introduction about my topic.
+author:
+  - name: Marcq Laurane
+    url: {}
+date: 04-04-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+The topic of my portfolio is the conservation of natural reserves and the re-introduction of endangered fauna. I chose this topic because I am very interested in the conservation of the environment. I find that it is an important topic because the Earth is composed of different ecosystems very diverse and interesting. This ecosystems  house a big number of animals and plants. There is a balance beteween animals and plants or between preys and predator. However, this balance is sometimes upset by the intervention of Humans.
+In addition, I believe that the beauty of these ecosystems and the balance between them must be preserved. Indeed, the destruction of an ecosystem can have serious consequences for the Earth. For example, destruction of forests would result in an increase in carbon dioxide concentration.
+More, I think it is important that the following generations can also experience this beautiful spectacle.
+Unfortunately, Humans sometimes have a negative impact on these ecosystems and on the species who live there. For instance, entire forests are razed to make room for palm oil crops or some people poach wildlife to earn money.
+Therefore, some people work to conserve these ecosystems and endangered species. This can be done by the construction of natural reserves and the conservation of this. 
+The protection of endangered species is done notably by the reintroduction of these or with the help of local people and people on the land.
+Finally, it is possible, thanks to many people who work hard every days. More, time is a determining factor in the success of the conservation of biodiversity.
+
+
