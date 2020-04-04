@@ -22,7 +22,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 "India's top court has said cheetahs can be reintroduced in the country, 70 years after they were wiped out"
 
-## Name of the magazine ad source 
+## Name of the magazine and source 
 
 BBC, https://www.bbc.com/news/world-asia-india-51279206
 
