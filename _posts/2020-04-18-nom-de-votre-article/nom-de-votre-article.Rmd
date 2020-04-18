@@ -1,0 +1,23 @@
+---
+title: "Conclusion"
+description: |
+  This post is the conclusion of my topic.
+author:
+  - name: Marcq Laurane
+    url: {}
+date: 04-18-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+In conclusion, the conservation of natural reserves can be achieved by the reintroduction of endangered species. It is a way of restoring belance.
+In addition, the reintroduction of one specie into an ecosystem does not only have positives consequences on that specie. This has also positives consequences for a set of other species.
+However, to reintroduce a species, several conditions must be met. This must not be done in any way. 
+However, the conservation of an ecosystems is a processus who needs times and it takes a lot of efforts from many people. Indeed, an ecosystem is really fragile and a little thing, by example, the accidental arrival of a species that is not part of the environment, can have disastrous consequences.
+
+

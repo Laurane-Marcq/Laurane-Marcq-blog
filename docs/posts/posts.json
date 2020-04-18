@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-04-18-nom-de-votre-article/",
+    "title": "Conclusion",
+    "description": "This post is the conclusion of my topic.",
+    "author": [
+      {
+        "name": "Marcq Laurane",
+        "url": {}
+      }
+    ],
+    "date": "2020-04-18",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-04-18T11:48:00+02:00"
+  },
+  {
     "path": "posts/2020-04-04-nom-de-votre-article/",
     "title": "Introduction",
     "description": "This post is the introduction about my topic.",
