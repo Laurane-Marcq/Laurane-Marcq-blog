@@ -1,0 +1,29 @@
+---
+title: "Bibliography"
+description: |
+  This post is the bibliography of my topic.
+author:
+  - name: Marcq Laurane
+    url: {}
+date: 04-19-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+1.	Introduction 
+
+-	Accessed April 4, 2020 : https://wwf.panda.org/our_work/forests/?gclid=CjwKCAjw4KD0BRBUEiwA7MFNTeZZEkhZBdjJKqJWV7kkuuLH_dcndkpNCkS88G4a8Va38eFdD9W46xoC7xMQAvD_BwE
+-	Accessed April 4, 2020 : https://www.livescience.com/27692-deforestation.html
+
+2.	Conclusion 
+
+-	Accessed April 4, 2020 : 
+https://www.britannica.com/science/invasive-species
+
+
+
