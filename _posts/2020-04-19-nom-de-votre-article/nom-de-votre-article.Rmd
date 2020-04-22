@@ -20,7 +20,26 @@ knitr::opts_chunk$set(echo = FALSE)
 -	Accessed April 4, 2020 : https://wwf.panda.org/our_work/forests/?gclid=CjwKCAjw4KD0BRBUEiwA7MFNTeZZEkhZBdjJKqJWV7kkuuLH_dcndkpNCkS88G4a8Va38eFdD9W46xoC7xMQAvD_BwE
 -	Accessed April 4, 2020 : https://www.livescience.com/27692-deforestation.html
 
-2.	Conclusion 
+2.	Articles 
+
+-	Article 1, accessed October 21, 2019 : 
+https://www.irishtimes.com/news/politics/greens-call-for-wolves-to-be-reintroduced-to-ireland-1.4036692
+-	Article 2, accessed November 4, 2019 : 
+https://www.thenational.scot/news/17948655.snh-plant-20-000-trees-first-national-nature-reserve/
+-	Article 3, accessed November 15, 2019 :
+https://www.independent.co.ug/uwa-re-introduces-giraffes-to-pian-upe-wildlife-reserve/
+-	Article 4, accessed November 28, 2019 :
+https://www.heraldscotland.com/news/18045704.reintroduction-centre-plan-endangered-scottish-wildcats/
+-	Article 5, accessed December 3, 2019 : 
+https://newsghana.com.gh/tanzanian-president-disapproves-annulment-of-more-protected-areas/
+-	Article 6, accessed February 11, 2020 :
+https://www.goodnewsnetwork.org/germany-turns-military-bases-into-nature-reserves/
+-	Article 7, accessed February 28, 2020 :
+https://www.bbc.com/news/world-asia-india-51279206
+-	Article 8, accessed March 20, 2020 :
+https://www.vicnews.com/community/endangered-butterfly-species-to-be-reintroduced-to-hornby-island/
+
+3.	Conclusion 
 
 -	Accessed April 4, 2020 : 
 https://www.britannica.com/science/invasive-species
